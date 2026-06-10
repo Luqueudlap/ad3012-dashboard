@@ -47,7 +47,7 @@ def cargar_datos():
     df["Order Date"] = pd.to_datetime(df["Order Date"])
     df["Year"]  = df["Order Date"].dt.year
     df["Month"] = df["Order Date"].dt.to_period("M").astype(str)
-    return ds
+    return df
 
 df = cargar_datos()
 
