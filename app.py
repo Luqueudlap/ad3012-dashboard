@@ -175,8 +175,7 @@ en este dashboard, ¿que decision tomarias y por que?
 una frase con TU hallazgo + una frase con TU recomendacion.
 
 Ejemplo de la estructura (no copies el contenido, escribe el tuyo):
-*"Descubri que [HALLAZGO con un dato concreto]. Recomiendo
-[ACCION concreta] para [RESULTADO esperado]."*
+*"Descubrí que las ventas alcanzaron su punto máximo en mayo 2015 con 18.96994, mientras que en  junio 2018 se registró el nivel más bajo con 503.01. Recomiendo aumentar el inventario y la disponibilidad de personal antes de los meses de mayor demanda para mejorar el servicio y aprovechar el incremento de ventas."*
     """)
 
 # ============================================================
